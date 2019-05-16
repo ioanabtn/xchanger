@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "309604867297",
+    "firebase_url": "https://x-changer.firebaseio.com",
+    "project_id": "x-changer",
+    "storage_bucket": "x-changer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309604867297:android:f4f52f835ad51b17",
+        "android_client_info": {
+          "package_name": "go.and.hike.x_changer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309604867297-0ijdggtkr50ff6ber6g65r2uuv3mdf79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "go.and.hike.x_changer",
+            "certificate_hash": "51a8fd433b27cc81bfd82f51b00c734a3e6a3057"
+          }
+        },
+        {
+          "client_id": "309604867297-4lka0u84t6sumbhiv66qj1fgf7dbgr45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjwpiHuMlX_-4VSU3I6eVHf0eblpKGP0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309604867297-4lka0u84t6sumbhiv66qj1fgf7dbgr45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
